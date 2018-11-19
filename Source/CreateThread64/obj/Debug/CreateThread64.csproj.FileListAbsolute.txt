@@ -1,0 +1,4 @@
+C:\Code\rt\Tools\Inject32To64\CreateThread64\bin\Debug\CreateThread64.dll
+C:\Code\rt\Tools\Inject32To64\CreateThread64\bin\Debug\CreateThread64.pdb
+C:\Code\rt\Tools\Inject32To64\CreateThread64\obj\Debug\CreateThread64.dll
+C:\Code\rt\Tools\Inject32To64\CreateThread64\obj\Debug\CreateThread64.pdb
